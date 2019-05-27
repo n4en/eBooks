@@ -1,0 +1,6 @@
+C:\Program Files\Elastic\Elasticsearch\6.2.3
+
+
+C:\Program Files\Elastic\Elasticsearch\6.2.3\data
+C:\Program Files\Elastic\Elasticsearch\6.2.3\config
+C:\Program Files\Elastic\Elasticsearch\6.2.3\logs
